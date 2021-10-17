@@ -1,0 +1,2 @@
+(this["webpackJsonpsatyam1203.github.io"]=this["webpackJsonpsatyam1203.github.io"]||[]).push([[0],{123:function(t,e,n){"use strict";n.r(e);var c=n(0),a=n.n(c),i=n(53),s=n.n(i),o=(n(62),n(63),n(54)),r=n(4);var h=function(){return Object(r.jsxs)("div",{className:"App",children:[Object(r.jsx)("h1",{children:"Satyam Lachhwani"}),Object(r.jsx)(o.TalkBox,{})]})};s.a.render(Object(r.jsx)(a.a.StrictMode,{children:Object(r.jsx)(h,{})}),document.getElementById("root"))},62:function(t,e,n){},63:function(t,e,n){}},[[123,1,2]]]);
+//# sourceMappingURL=main.b5abbd04.chunk.js.map
